@@ -87,9 +87,5 @@ and subtracting this value from 10, and then taking the
 modulo 10 of the result again to produce a single digit.
 
 
-Basic task:
-Create a function that takes a string and returns true
-if that is a valid ISBN-13 and false otherwise.
-
-Advanced task:
-Also return true if the string is a valid ISBN-10."""
+To do:
+Check if the string is also a valid ISBN-10."""
